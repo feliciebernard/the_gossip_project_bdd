@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Entrez dans l'univers du Gossip Project. Vous rêviez de balancer vos potins ? Ne rêvez plus, vous êtes entre deux bonnes mains.
+En attendant les finitions, prenez le temps de découvrir la BDD plus que déjà fournie en petits potins.
+Bonne lecture !
